@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # Global properties
 properties() { '
-kernel.string=MahiruShiina GKI Kernel for android12-5.10 devices by MillenniumTeam
+kernel.string=Mahiru GKI Kernel for android12-5.10 devices by MillenniumTeam
 do.devicecheck=0
 do.modules=0
 do.systemless=1
